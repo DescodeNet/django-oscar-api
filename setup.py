@@ -28,9 +28,9 @@ setup(
         'Topic :: Software Development :: Libraries :: Application Frameworks',
     ],
     keywords='',
-    author='Lars van de Kerkhof, Martijn Jacobs',
-    author_email='lars@permanentmarkers.nl, martijn@devopsconsulting.nl',
-    url='https://github.com/django-oscar/django-oscar-api',
+    author='DesCode',
+    author_email='master@descode.net',
+    url='https://github.com/DescodeNet/django-oscar-api',
     license='BSD',
     # include all packages in the egg, except the test package.
     packages=find_packages(
